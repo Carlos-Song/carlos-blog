@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://carlos-song.github.io/carlos-blog</id>
     <title>Silverwing</title>
-    <updated>2020-05-30T04:20:44.449Z</updated>
+    <updated>2020-05-30T04:27:54.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://carlos-song.github.io/carlos-blog"/>
     <link rel="self" href="https://carlos-song.github.io/carlos-blog/atom.xml"/>
@@ -12,15 +12,12 @@
     <rights>All rights reserved 2020, Silverwing</rights>
     <entry>
         <title type="html"><![CDATA[深入立即计算机系统 (CSAPP) 第二章]]></title>
-        <id>https://carlos-song.github.io/carlos-blog/post/shen-ru-li-ji-ji-suan-ji-xi-tong-csapp-di-er-zhang/</id>
-        <link href="https://carlos-song.github.io/carlos-blog/post/shen-ru-li-ji-ji-suan-ji-xi-tong-csapp-di-er-zhang/">
+        <id>https://carlos-song.github.io/carlos-blog/post/cs/</id>
+        <link href="https://carlos-song.github.io/carlos-blog/post/cs/">
         </link>
         <updated>2020-04-11T13:43:38.000Z</updated>
-        <summary type="html"><![CDATA[<p>CSAPP 第二章笔记</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>CSAPP 第二章笔记</p>
-<!-- more -->
-<!-- more -->
+        <content type="html"><![CDATA[<!-- more -->
+<p>CSAPP 第二章笔记</p>
 ]]></content>
     </entry>
     <entry>
